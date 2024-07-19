@@ -24,7 +24,7 @@ Ensure you have Node.js installed. You can download it from [Node.js official we
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo-link-here/socket-io-server.git
+   git clone https://github.com/mrogunlana/socket-io-server.git
    cd socket-io-server
    ```
 
